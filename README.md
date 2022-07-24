@@ -1,1 +1,1 @@
-# lear-swimming
+# learn-swimming
